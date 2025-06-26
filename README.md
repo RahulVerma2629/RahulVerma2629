@@ -11,9 +11,9 @@ I'm a passionate developer who loves building things with code. I'm always eager
 
 ## 🚀 Currently Learning
 
+- Data Structure & Algorithms
 - UI/UX
 - React, Node.js, Express.js
-- Data Structure & Algorithms
 
 ## 📬 How to Reach Me
 
