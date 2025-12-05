@@ -27,5 +27,5 @@ I love learning new programming languages and building side projects in my free 
 
 ## 📊 GitHub Stats
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulverma2629&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulverma2629&show_icons=true&count_private=true&hide=prs&theme=radical&cache_seconds=7200)
 
