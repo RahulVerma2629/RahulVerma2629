@@ -1,6 +1,6 @@
 # Hello, I'm Rahul Verma 👋
 
-I'm a passionate developer who loves building things with code. I'm always eager to learn new technologies and improve my skills.
+I'm a hard working debugger who loves building things with code. I'm always eager to learn new technologies and improve my skills.
 
 ## 💻 Technologies & Tools
 
