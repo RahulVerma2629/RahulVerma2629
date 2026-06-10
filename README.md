@@ -1,9 +1,11 @@
-# Hello, I'm Rahul Verma 👋
+<h1 align="center">Hi 👋, I'm Rahul Verma</h1>
 
+<h3 align="center">
 I'm a hard working debugger who loves building things with code. I'm always eager to learn new technologies and improve my skills.
+</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RahulVerma2629&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RahulVerma2629&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ## 💻 Technologies & Tools
@@ -14,8 +16,8 @@ I'm a hard working debugger who loves building things with code. I'm always eage
 
 ## 🚀 Currently Learning
 
-- Data Structure & Algorithms
-- UI/UX
+- Data Structure & Algorithms, Object Oriented Programming
+- System Design, UI/UX
 - React, Node.js, Express.js
 
 ## 📬 How to Reach Me
