@@ -8,10 +8,9 @@ I'm a hard working debugger who loves building things with code. I'm always eage
 
 ## 💻 Technologies & Tools
 
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express, Python
-- Database: MongoDB, MySQL
-- Tools: Git, GitHub, VSCode
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode" />
+</p>
 
 ## 🚀 Currently Learning
 
