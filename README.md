@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Verma</h1>
 
-<h3 align="center">
+<h3 align="left">
 I'm a hard working debugger who loves building things with code. I'm always eager to learn new technologies and improve my skills.
 </h3>
 
