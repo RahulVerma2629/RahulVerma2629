@@ -1,8 +1,6 @@
-<p align="center">
-  # Hello, I'm Rahul Verma 👋
+# Hello, I'm Rahul Verma 👋
 
 I'm a hard working debugger who loves building things with code. I'm always eager to learn new technologies and improve my skills.
-</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RahulVerma2629&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
