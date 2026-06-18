@@ -59,6 +59,7 @@ I love learning new programming languages and building side projects in my free 
 
 ## 📊 GitHub Stats
 
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulverma2629&show_icons=true&count_private=true&hide=prs&theme=radical&cache_seconds=7200)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulverma2629&show_icons=true&count_private=true&hide=prs&theme=radical&cache_seconds=7200" alt="Rahul's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulverma2629&layout=compact&theme=radical&cache_seconds=7200" alt="Rahul's Top Languages" height="195" />
+</p>
