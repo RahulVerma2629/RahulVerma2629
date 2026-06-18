@@ -30,11 +30,17 @@ I'm a hard working debugger who loves building things with code. I'm always eage
 </p>
 
 ## 🚀 Currently Learning
+
 <p align="center">
 - Data Structure & Algorithms, Object Oriented Programming
+</p>
+<p align="center">
 - System Design, UI/UX
+</p>
+<p align="center">
 - React, Node.js, Express.js
 </p>
+
 ## 📬 How to Reach Me
 
 - Email: [rahulverma182004@gmail.com](mailto:rahulverma182004@gmail.com)
