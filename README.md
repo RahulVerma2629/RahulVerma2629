@@ -32,13 +32,19 @@ I'm a hard working debugger who loves building things with code. I'm always eage
 ## 🚀 Currently Learning
 
 <p align="center">
-  📚 <b>Data Structures & Algorithms</b> • <b>Object Oriented Programming</b>
+  💻 <b>Core Fundamentals:</b> Data Structures & Algorithms (DSA) • Object Oriented Programming (OOP)
 </p>
 <p align="center">
-  🏗️ <b>System Design</b> • <b>Machine Learning</b>
+  🏗️ <b>Architecture & Backend:</b> System Design (Low-Level & High-Level) • Express.js • API Design & Security
 </p>
 <p align="center">
-  📱 <b>React Native</b> • <b>Express.js</b> • <b>GenAI</b>
+  🤖 <b>AI & Data Science:</b> Machine Learning Pipelines • Generative AI & Large Language Models (LLMs)
+</p>
+<p align="center">
+  📱 <b>Mobile & Frontend:</b> React Native • Cross-Platform App Development
+</p>
+<p align="center">
+  🛠️ <b>DevOps & Cloud (Next Up):</b> Docker Containers • CI/CD Workflows • Cloud Deployment
 </p>
 
 ## 📬 How to Reach Me
