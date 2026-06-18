@@ -31,15 +31,16 @@ I'm a hard working debugger who loves building things with code. I'm always eage
 
 ## 🚀 Currently Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" title="React Native" height="40" alt="React Native" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" title="Express.js" height="40" alt="Express" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" title="Python / ML" height="40" alt="Python" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++ / DSA" height="40" alt="C++" />
-</p>
+## 🚀 Currently Learning
 
 <p align="center">
-  <b>DSA & OOP</b> • <b>System Design</b> • <b>Machine Learning</b> • <b>GenAI</b>
+  📚 <b>Data Structures & Algorithms</b> • <b>Object Oriented Programming</b>
+</p>
+<p align="center">
+  🏗️ <b>System Design</b> • <b>Machine Learning</b>
+</p>
+<p align="center">
+  📱 <b>React Native</b> • <b>Express.js</b> • <b>GenAI</b>
 </p>
 
 ## 📬 How to Reach Me
