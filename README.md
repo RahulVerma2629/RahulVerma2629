@@ -31,8 +31,6 @@ I'm a hard working debugger who loves building things with code. I'm always eage
 
 ## 🚀 Currently Learning
 
-## 🚀 Currently Learning
-
 <p align="center">
   📚 <b>Data Structures & Algorithms</b> • <b>Object Oriented Programming</b>
 </p>
