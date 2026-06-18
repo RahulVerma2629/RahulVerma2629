@@ -49,9 +49,17 @@ I'm a hard working debugger who loves building things with code. I'm always eage
 
 ## 📬 How to Reach Me
 
-- Email: [rahulverma182004@gmail.com](mailto:rahulverma182004@gmail.com)
-- LinkedIn: [Rahul Verma](https://linkedin.com/in/rahul-verma-268860287)
-- LeetCode: [@rahul_verma1234](https://leetcode.com/u/rahul_verma1234/)
+<p align="center">
+  <a href="mailto:rahulverma182004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/rahul-verma-268860287" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/rahul_verma1234/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 
 ## 🎉 Fun Fact
 
