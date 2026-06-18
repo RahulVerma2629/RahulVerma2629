@@ -53,7 +53,9 @@ I'm a hard working debugger who loves building things with code. I'm always eage
 
 ## 🎉 Fun Fact
 
+<p align="center">
 I love learning new programming languages and building side projects in my free time. 🚀
+</p>
 
 ## 📊 GitHub Stats
 
