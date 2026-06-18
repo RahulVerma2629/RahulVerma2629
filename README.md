@@ -47,19 +47,9 @@ I'm a hard working debugger who loves building things with code. I'm always eage
   🛠️ <b>DevOps & Cloud (Next Up):</b> Docker Containers • CI/CD Workflows • Cloud Deployment
 </p>
 
-## 📬 How to Reach Me
+## 📬 Reach me & Online Platforms
 
-<p align="center">
-  <a href="mailto:rahulverma182004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/rahul-verma-268860287" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/rahul_verma1234/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
+<p align="center"><a href="mailto:rahulverma182004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://linkedin.com/in/rahul-verma-268860287" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://leetcode.com/u/rahul_verma1234/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a><a href="https://www.codechef.com/users/rahul_verma124" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a><a href="https://codeforces.com/profile/rahul_verma1234" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a></p>
 
 ## 🎉 Fun Fact
 
